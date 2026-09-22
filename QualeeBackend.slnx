@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="QualeeBackend.Application/QualeeBackend.Application.csproj" />
+    <Project Path="QualeeBackend.Domain/QualeeBackend.Domain.csproj" />
+    <Project Path="QualeeBackend.Infrastructure/QualeeBackend.Infrastructure.csproj" />
+    <Project Path="QualeeBackend.WebAPI/QualeeBackend.WebAPI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="QualeeBackend.Tests.Application/QualeeBackend.Tests.Application.csproj" />
+    <Project Path="QualeeBackend.Tests.Domain/QualeeBackend.Tests.Domain.csproj" />
+  </Folder>
+</Solution>

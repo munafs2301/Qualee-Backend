@@ -1,0 +1,6 @@
+@QualeeBackend.WebAPI_HostAddress = http://localhost:5208
+
+GET {{QualeeBackend.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
